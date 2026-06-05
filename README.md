@@ -1,5 +1,12 @@
 # 📊 Uji Hipotesis menggunakan RStudio pada Dataset Simulasi
 
+> Kontributor:
+> - Keyla Aura Zahra         (3337250045)
+> - Natasya Novita Prihatini (3337250046)
+> - Yazidil Afnan Martani    (3337250043)
+> - Zilva Nur Intan Permana  (3337250015)
+> Terima kasih kepada para kontributor atas bantuan dan kontribusinya yang telah memperlancar proses pengerjaan proyek sehingga proyek dapat diselesaikan.
+
 Proyek ini berisi analisis **uji hipotesis dua populasi** menggunakan data dari *Job Salary Prediction Dataset*. Fokus analisisnya adalah membandingkan rata-rata gaji tahunan **Backend Developer** dan **Frontend Developer** dengan asumsi ragam kedua populasi sama.
 
 ### Ringkasan Proyek
