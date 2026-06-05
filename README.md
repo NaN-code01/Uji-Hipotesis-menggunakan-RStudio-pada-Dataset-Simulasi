@@ -80,7 +80,8 @@ Disarankan menggunakan **RStudio**.
 Output akan muncul di **Console**.
 
 **Preview Output** `CTRL + Shift + S`
-![Diagram Sistem]("preview output.jpg")
+
+![Diagram Sistem]("preview_output.jpg")
 
 > Catatan:
 > - Sebaiknya **jangan menjalankan kode baris per baris** dengan `CTRL + Enter`, karena dapat menimbulkan error saat menentukan path file.
