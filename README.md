@@ -79,6 +79,9 @@ Disarankan menggunakan **RStudio**.
 
 Output akan muncul di **Console**.
 
+**Preview Output** `CTRL + Shift + S`
+![Diagram Sistem]("preview output.jpg")
+
 > Catatan:
 > - Sebaiknya **jangan menjalankan kode baris per baris** dengan `CTRL + Enter`, karena dapat menimbulkan error saat menentukan path file.
 
@@ -95,10 +98,10 @@ Fungsi script:
   - `backend_sample.csv`
   - `frontend_sample.csv`
 
-Catatan:
-- Jika file sample belum tersedia, jalankan script ini terlebih dahulu sebelum menjalankan `uji_hipotesis.R`.
-- Bagian `set.seed()` dapat diubah jika ingin menghasilkan sampel yang berbeda.
-- Perubahan seed dapat memengaruhi hasil analisis dan kesimpulan.
+> Catatan:
+> - Jika file sample belum tersedia, jalankan script ini terlebih dahulu sebelum menjalankan `uji_hipotesis.R`.
+> - Bagian `set.seed()` dapat diubah jika ingin menghasilkan sampel yang berbeda.
+> - Perubahan seed dapat memengaruhi hasil analisis dan kesimpulan.
 
 ### `uji_hipotesis.R`
 
@@ -110,7 +113,7 @@ Fungsi script:
 - menampilkan hasil uji hipotesis di Console
 
 
-## Catatan Tambahan
+## 📝 Catatan Tambahan
 
 > - Dataset yang digunakan bukan data nyata, sehingga hasil analisis hanya relevan untuk konteks dataset ini.
 > - Jika struktur folder diubah, pastikan path di dalam script ikut disesuaikan agar program tetap berjalan dengan benar.
