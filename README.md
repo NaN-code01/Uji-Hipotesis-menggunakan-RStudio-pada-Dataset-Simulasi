@@ -81,7 +81,7 @@ Output akan muncul di **Console**.
 
 **Preview Output** `CTRL + Shift + S`
 
-![Diagram Sistem]("preview_output.jpg")
+<img src="preview_output.jpg" width="600">
 
 > Catatan:
 > - Sebaiknya **jangan menjalankan kode baris per baris** dengan `CTRL + Enter`, karena dapat menimbulkan error saat menentukan path file.
