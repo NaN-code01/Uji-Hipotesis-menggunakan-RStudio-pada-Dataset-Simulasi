@@ -1,5 +1,9 @@
 # 📊 Uji Hipotesis menggunakan RStudio pada Dataset Simulasi
 
+![R](https://img.shields.io/badge/R-4.5+-276DC3?logo=r)
+![RStudio](https://img.shields.io/badge/RStudio-Tested-75AADB?logo=rstudio)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 > Kontributor:
 > - Keyla Aura Zahra         (3337250045)
 > - Natasya Novita Prihatini (3337250046)
